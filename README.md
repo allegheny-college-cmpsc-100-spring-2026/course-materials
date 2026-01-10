@@ -94,7 +94,7 @@ their colleagues informed of changes made or in progress.
 As such, this course treats Github the same way: a method to consistently "show your work," unlike a platform such as Canvas where it's more likely that a student submits final work rather than work-in-process. Course assignments will be distributed through the Github platform. 
 
 > [!IMPORTANT]
-> Neither TLs nor the instructor will only review content _on the Github platform_.
+> Course learning staff (TLs, instructor(s)) will only review content _on the Github platform_.
 
 This means that you should keep your work > up to date.
 
