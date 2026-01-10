@@ -198,8 +198,8 @@ As an introductory course, you have `4` tokens. Each can do one of the following
 
 Generally speaking, the CIS Department embraces a generous AI use policy. However, because this is a 100 level class where the acquisition and practice of basic skills is critical:
 
-[!WARNING]
-use of artificial intelligence to generate code is _not_ permitted.
+> [!WARNING]
+> use of artificial intelligence to generate code is _not_ permitted.
 
 #### Allegheny College Policy and Awareness Statements
 
