@@ -194,9 +194,12 @@ As an introductory course, you have `4` tokens. Each can do one of the following
 - Allow resubmit of one lab assignment two weeks after receiving your grade. 
   * Resubmits can only be used on projects where an on‑time attempt was made (an attempt means that you have started the assignment and tried at least half the objectives).
 
-#### Artificial Intelligence in Class 
+#### Artificial Intelligence
 
-Because this is a 100 level class where practice is critical, use of artificial intelligence to generate code is not permitted.
+Generally speaking, the CIS Department embraces a generous AI use policy. However, because this is a 100 level class where the acquisition and practice of basic skills is critical:
+
+[!WARNING]
+use of artificial intelligence to generate code is _not_ permitted.
 
 #### Allegheny College Policy and Awareness Statements
 
@@ -236,7 +239,7 @@ Keep in mind, course deadlines, absences, and accommodations for mental health a
 
 Students who are in need of mental health services can access resources to receive support.  Allegheny College has partnered with ECPS (Edinboro Counseling and Psychological Services) to provide in-person therapy on campus. The ECPS partnership with Allegheny College delivers holistic mental health services to the Allegheny College student community through brief individual counseling, and crisis support. Students may request services from ECPS by calling (814) 734-3975 or, if you have any questions, please email the Wellness Case Manager at wellness@allegheny.edu.
 
-All students also have access to the TimelyCare Telehealth platform.  These services are free to all actively enrolled students and do not require insurance to use.  TimelyCare gives all actively enrolled students up to 6 therapy sessions with licensed clinicians per academic year virtually over your phone or computer.  This service also includes access to a 24/7 TalkNow telephone support line that students can call and talk to a mental health professional when needing extra support.  Additionally, this app also provides a variety of self-guided modules that students can utilize independently to support their wellbeing. 
+All students also have access to the TimelyCare Telehealth platform. These services are free to all actively enrolled students and do not require insurance to use.  TimelyCare gives all actively enrolled students up to 6 therapy sessions with licensed clinicians per academic year virtually over your phone or computer.  This service also includes access to a 24/7 TalkNow telephone support line that students can call and talk to a mental health professional when needing extra support.  Additionally, this app also provides a variety of self-guided modules that students can utilize independently to support their wellbeing. 
 
 Download the TimelyCare app on your electronic device or visit [timelycare.com/allegheny](timelycare.com/allegheny) to register and log in using your Allegheny College student email. Please send all questions regarding the services or about registration/log-in to wellness@allegheny.edu.
 
@@ -252,7 +255,7 @@ Experienced peer writing and speaking consultants in the Maytum Center for Stude
 
 #### Gator Days and Scholar Symposium 
 
-Each semester, the college sets aside one Gator Day for programming, with no classes. Fall Gator Day is held on the first Tuesday in November (coinciding with election day). Spring Gator Day is held on a Monday in early April. These all-college programming days  feature programs and workshops that highlight educational opportunities at Allegheny, that prepare students for life after graduation, and that help to create a greater sense of campus community. Additionally, in the Spring, during the Richard J Cook – Teresa M Lahti Scholars Symposium (the day immediately after classes end and before exams begin), we gather to celebrate student research, scholarship, and creative activities on campus.
+Each semester, the college sets aside one Gator Day for programming, with no classes. Fall Gator Day is held on the first Tuesday in November (coinciding with election day). Spring Gator Day is held on a Monday in early April. These all-college programming days  feature programs and workshops that highlight educational opportunities at Allegheny, that prepare students for life after graduation, and that help to create a greater sense of campus community. Additionally, in the Spring, during the Richard J Cook–Teresa M Lahti Scholars Symposium (the day immediately after classes end and before exams begin), we gather to celebrate student research, scholarship, and creative activities on campus.
 
 #### Class Deans 
 
@@ -274,28 +277,39 @@ Allegheny College adheres to all federal, state, and local civil rights laws pro
 
 Allegheny College is required to respond promptly and effectively, utilizing a fair, transparent, and reliable process, when they have knowledge of conduct that reasonably may constitute sex discrimination in its program, and must take steps to prevent the recurrence of discrimination and remedy its effects, the college must communicate their policies and procedures to all students, employees, and other participants in their programs and must monitor and address barriers to reporting instances of sex discrimination.
 
-Allegheny College employees must notify their Title IX Coordinator when they have information that may reasonably rise to the level of sex discrimination, so long as the employee is not a confidential employee, as defined on page 3 of this policy. All employees must be trained upon hiring and annually thereafter on (i) the College’s obligation to address sex discrimination, (ii) the scope of conduct that constitutes sex discrimination under Title IX, including sex-based harassment, and (iii) all duties of employees upon receipt of a report of sex discrimination, including to provide the reporting individual with contact information for the Title IX Coordinator and information about how to report sex discrimination under Title IX.
-Trae Yeckley, Dean for Student Life and Title IX Coordinator 814-332-3085 (direct line), titleix@allegheny.edu , Student Life Suite, Campus Center 
+Allegheny College employees must notify their Title IX Coordinator when they have information that may reasonably rise to the level of sex discrimination, so long as the employee is not a confidential employee. All employees must be trained upon hiring and annually thereafter on 
+
+1. the College’s obligation to address sex discrimination
+2. the scope of conduct that constitutes sex discrimination under Title IX, including sex-based harassment, and
+3. all duties of employees upon receipt of a report of sex discrimination, including to provide the reporting individual with contact information for the Title IX Coordinator and information about how to report sex discrimination under Title IX.
 
 You can access support and resources even if you do not want to take any further action. The College respects your right to file or not file a formal complaint. The Title IX Coordinator may take action only in situations that pose a serious threat of harm to you or the community. 
 
-NB: On January 9, 2025, the U.S. District Court for the Eastern District of Kentucky vacated the Biden administration’s 2024 Title IX regulations. The vacatur applies nationwide, meaning the 2020 Title IX final rule and Title IX regulations are effective. Due to this ruling, Allegheny College reverted back to their Harassment, Discrimination, and Sexual Misconduct Policy and Procedures prior to August 1, 2024.
+**Nota Bene**: On January 9, 2025, the U.S. District Court for the Eastern District of Kentucky vacated the Biden administration's 2024 Title IX regulations. The vacatur applies nationwide, meaning the 2020 Title IX final rule and Title IX regulations are effective. Due to this ruling, Allegheny College reverted back to their Harassment, Discrimination, and Sexual Misconduct Policy and Procedures prior to August 1, 2024.
 
-##### Faculty As Mandatory Reporters
+##### Faculty As Mandated Reporters
 
 Unless specifically identified otherwise by policy, all faculty, staff, and administrators of Allegheny College are considered mandated reporters and are required to notify the College’s Title IX Coordinator of any incident of discrimination and harassment disclosed to them, or known to them, involving a member of the campus community. Mandated reporting helps to ensure that individuals who are experiencing or have experienced discrimination or harassment are connected to the full range of resources and options afforded to them. 
 
 If you are in need of support or advocacy and wish to discuss such matters confidentially, you are invited to consult any of the resources listed below. Unlike other College employees, the options below are confidential and are exempt from mandatory reporting obligations to the Title IX Coordinator. These resources are free and include both internal and external options.
 
 ###### On Campus Options
-- Meadville Medical Center @ Winslow - (814-332-4355) - Walk-ins welcome - Open from M-F 10am-3pm (last patient check-in at 2:30pm) while classes are in session.
-- ECPS (Edinboro Counseling and Psychological Services) partnership with Allegheny College - (814- 734-3975) - Please call to schedule an appointment.
-- Wellness in Student Life - wellness@allegheny.edu - (814) 332-2782 
+|Location |Contact |Additional Information |
+|:--------|:-------|:-----|
+|Meadville Medical Center @ Winslow | `814 332 4355` | Open from M-F 10am-3pm (last patient check-in at 2:30pm) while classes are in session|
+|Edinboro Counseling and Psychological Services | `814 734 3975` | Call to schedule an appointment|
+|Wellness in Student Life | `814 332 2782`| wellness@allegheny.edu | 
 
 ###### Off Campus Options
-- Meadville Medical Center Emergency Room, 751 Liberty Street – (814) 333-5500
-- Meadville Crisis Line, (814) 724-2732
-- Women’s Services, Inc., (814) 724-4637 (office)
-- 24-hour Hotlines: (814) 333-9766  or (888) 881-0189
-- If you would like more information on the College’s Harassment, Discrimination and Sexual Misconduct Policy click here.
-- Resources | Title IX | Allegheny College
+|Location |Contact |
+|:--------|:-------|
+|Meadville Medical Center Emergency Room| `814 333 5500` |
+|Meadville Crisis Line |`814 724 2732` |
+|Women’s Services, Inc.|`814 724 4637` |
+|24-hour Hotlines      |`814 333 9766`  or `888 881 0189` |
+
+###### Title IX Coordinator
+
+* Trae Yeckley, Dean for Student Life and Title IX Coordinator
+* 814-332-3085, titleix@allegheny.edu
+* Student Life Suite, Campus Center 
