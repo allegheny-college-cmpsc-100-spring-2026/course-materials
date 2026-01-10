@@ -151,6 +151,7 @@ Submitted work must pass a minimal set of technical requirements to count as hav
 
 Each week features a capstone lab assignment giving students an opportunity to demonstrate the lesson(s) learned during
 a given week. Labs feature technical challenges with guidelines for code reviews and a summary of technical requirements.
+These areas of evaluation will feature into the breakdown of a final grade awarded to each lab assignment.
 
 ###### Code Reviews
 
