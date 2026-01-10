@@ -91,9 +91,12 @@ Github is an industry-standard system for storing and _versioning_ (keeping work
 In a professional environment, developers `push` (or "upload") work to the platform multiple times per day to keep
 their colleagues informed of changes made or in progress. 
 
-As such, this course treats Github the same way: a method
-to consistently "show your work," unlike a platform such as Canvas where it's more likely that a student submits
-final work rather than work-in-process. Course assignments will be distributed through the Github platform. Neither TLs nor the instructor will review content _not_ submitted to the platform. This means that you should keep your work up to date.
+As such, this course treats Github the same way: a method to consistently "show your work," unlike a platform such as Canvas where it's more likely that a student submits final work rather than work-in-process. Course assignments will be distributed through the Github platform. 
+
+> [!IMPORTANT]
+> Neither TLs nor the instructor will only review content _on the Github platform_.
+
+This means that you should keep your work > up to date.
 
 #### Discord
 
@@ -199,7 +202,7 @@ As an introductory course, you have `4` tokens. Each can do one of the following
 Generally speaking, the CIS Department embraces a generous AI use policy. However, because this is a 100 level class where the acquisition and practice of basic skills is critical:
 
 > [!WARNING]
-> use of artificial intelligence to generate code is _not_ permitted.
+> Use of artificial intelligence to generate code is _not_ permitted.
 
 #### Allegheny College Policy and Awareness Statements
 
