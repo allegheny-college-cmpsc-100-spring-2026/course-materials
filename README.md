@@ -243,7 +243,7 @@ If you or someone you know is experiencing a mental health emergency, please cal
 
 #### Gator Success Grants
 
-The [Gator Success Grant](https://sites.allegheny.edu/gator-success-grants/) program is designed to provide students with additional financial assistance to offset the total cost of college attendance and to encourage successful on-time degree completion. Currently enrolled students who have an unanticipated need are invited to apply. Grants are usually from a few hundred to a few thousand dollars, depending on the request and the student's need. Please direct questions to `studentsuccess@allegheny.edu`.
+The [Gator Success Grant](https://sites.allegheny.edu/gator-success-grants/) program is designed to provide students with additional financial assistance to offset the total cost of college attendance and to encourage successful on-time degree completion. Currently enrolled students who have an unanticipated need are invited to apply. Grants are usually from a few hundred to a few thousand dollars, depending on the request and the student's need. Please direct questions to studentsuccess@allegheny.edu.
 
 #### Writing and Speaking Consultants 
 
@@ -259,7 +259,7 @@ The [Office of Class Deans](https://sites.allegheny.edu/maytum-center-student-su
 
 #### The Well
 
-The Center for Wellbeing, Life Design, and Community Engagement (The Well) empowers students to live meaningful, connected, and balanced lives at Allegheny College. The Well nurtures student wellbeing, affirms identity, and cultivates lifelong habits of service, purpose, and reflection through holistic support and programming from professional staff. Please visit The Well (in the Campus Center and Pelletier Library) if you would like to chat with professional staff about your purpose or need more information about community engagement opportunities. For more information, please feel free to contact Dom Turner (`dturner@allegheny.edu`).
+The Center for Wellbeing, Life Design, and Community Engagement (The Well) empowers students to live meaningful, connected, and balanced lives at Allegheny College. The Well nurtures student wellbeing, affirms identity, and cultivates lifelong habits of service, purpose, and reflection through holistic support and programming from professional staff. Please visit The Well (in the Campus Center and Pelletier Library) if you would like to chat with professional staff about your purpose or need more information about community engagement opportunities. For more information, please feel free to contact [Dom Turner](dturner@allegheny.edu).
 
 #### Recording Policy
 
