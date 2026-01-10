@@ -1,5 +1,7 @@
 # CMPSC 100: Computational Expression
 
+![Course banner blue and yellow gradient, the number "100" represented by a "1" followed by a pair of gears](https://private-user-images.githubusercontent.com/1552764/534241615-716f979e-d003-48d7-82ef-9483f33d3ff2.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjgwNzA1NzQsIm5iZiI6MTc2ODA3MDI3NCwicGF0aCI6Ii8xNTUyNzY0LzUzNDI0MTYxNS03MTZmOTc5ZS1kMDAzLTQ4ZDctODJlZi05NDgzZjMzZDNmZjIucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDExMCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjAxMTBUMTgzNzU0WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MTQ0NGMwNWVlNWMyYTFjMjhkNThkNmRjZGY0MjI5YzU1YWVjZjAyZTJkZjM1YTI1OTM0MDBlMDYxODhmY2JlOCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.9K5ajm65K61YjuX94_2ETtWjneH3BgtNMTdshv6eyhU)
+
 ## Important resources
 
 * [Office hours schedule](https://chompe.rs/office-hours)
@@ -105,7 +107,7 @@ Given the technical nature of work in disciplines related to computer science, y
 course is only about one thing: the _right_ answer: whether the software _works_. While it's important for programs
 to function, we're interested in much more than "yes" or "no" answers.
 
-This course is broken down into `3` related components:
+This course is broken down into `3` related types of evaluation with sub-components:
 
 * class activities
 * lab assignments
@@ -115,8 +117,32 @@ This course is broken down into `3` related components:
     * interview
     * technical benchmarks
 
-##### Code Reviews
+##### Class Activities
 
+Frequently, we will use class to explore a given concept using an activity. These activities will be kept in a `repository`
+you control in our course Github organzation. When starting an activity, students will be directed to retrieve new
+content and, when the activity is finished, will be prompted to `push` the content back to the course's Github platform
+to reflect participation.
 
+Submitted work must pass a minimal set of technical requirements to count as having been submitted.
+
+##### Lab Assignments
+
+Each week features a capstone lab assignment giving students an opportunity to demonstrate the lesson(s) learned during
+a given week. Labs feature technical challenges with guidelines for code reviews and a summary of technical requirements.
+
+###### Code Reviews
+
+Code review is a process used like an essay's peer review; instead of writing, our goal is to understand and maintain code quality. Often, changes to code happen _because_ of a code review. Rarely should a code review process "rubber stamp" changes. Think of this as a conversation betwee yourself and someone who has been in exactly the same position as you: as a learner. Sometimes, you may even be able to teach your reviewer a new trick!
+
+These reviews will be conducted by TLs and/or the instructor during lab sessions. You must be present to receive credit
+for participating in a code review as it will consist of manual review of source code as well as an in-person discussion
+of the work in progress.
+
+###### Technical Requirements
+
+This courses uses `Gatorgrader`, a department-developed and maintained software that tests code for specific benchmarks including
+reading and executing source code. Each assignment will have a clear list of specifications required to pass its given technical
+requirements.
 
 ### Policies
