@@ -1,6 +1,6 @@
 # CMPSC 100: Computational Expression
 
-![Course banner blue and yellow gradient, the number "100" represented by a "1" followed by a pair of gears](https://private-user-images.githubusercontent.com/1552764/534241615-716f979e-d003-48d7-82ef-9483f33d3ff2.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjgwNzA1NzQsIm5iZiI6MTc2ODA3MDI3NCwicGF0aCI6Ii8xNTUyNzY0LzUzNDI0MTYxNS03MTZmOTc5ZS1kMDAzLTQ4ZDctODJlZi05NDgzZjMzZDNmZjIucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDExMCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjAxMTBUMTgzNzU0WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MTQ0NGMwNWVlNWMyYTFjMjhkNThkNmRjZGY0MjI5YzU1YWVjZjAyZTJkZjM1YTI1OTM0MDBlMDYxODhmY2JlOCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.9K5ajm65K61YjuX94_2ETtWjneH3BgtNMTdshv6eyhU)
+![Course banner blue and yellow gradient, the number "100" represented by a "1" followed by a pair of gears](https://github.com/allegheny-college-cmpsc-100-spring-2026/course-materials/blob/media/media/banner.png)
 
 ## Important resources
 
