@@ -5,7 +5,7 @@
 ## Important resources
 
 * [Office hours schedule](https://chompe.rs/office-hours)
-* [Course Schedule](#course-schedule)
+* [Course Schedule](https://chompe.rs/100-schedule)
 * [Technical Leader directory](https://www.cs.allegheny.edu/teaching/technicalleaders/)
 
 ## Syllabus
