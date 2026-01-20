@@ -187,7 +187,7 @@ General department policy allows for no more than two weeks of absences without 
 
 #### Late assignments
 
-Late assignments will not be accepted unless a token is applied, ideally before the assignment deadline. To apply a token, complete [this form](). The token can not be used for a final project.
+Late assignments will not be accepted unless a token is applied, ideally before the assignment deadline. To apply a token, complete [this form](https://forms.gle/pQ45qnLpFhVH2cTy5). The token can not be used for a final project.
 
 These tokens are no‑questions‑asked. They are meant to accommodate emergencies, illnesses, athletic events, so there
 is no need to provide an excuse when applying a token.
