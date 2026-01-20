@@ -131,7 +131,7 @@ Final grading represents these categories in the following schedule:
 
 This course adopts the follow final letter grade scale:
 
-|             |            |             |            |             |            |
+|Grade             |Range            |Grade             |Range            |Grade             |Range            |
 |:------------|:-----------|:------------|:-----------|:------------|:-----------|
 |`A`            | 95 - 100   |`A-`           | 90 - 94.9  |
 |`B+`           | 87 - 89.9  |`B`            | 83 - 86.9  |`B-`           | 80 - 82.9  |
