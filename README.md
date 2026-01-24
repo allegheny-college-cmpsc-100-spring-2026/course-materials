@@ -96,7 +96,7 @@ As such, this course treats Github the same way: a method to consistently "show 
 > [!IMPORTANT]
 > Course learning staff (TLs, instructor(s)) will only review content _on the Github platform_.
 
-This means that you should keep your work > up to date.
+This means that you should keep your work up to date.
 
 #### Discord
 
